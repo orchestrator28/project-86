@@ -17,3 +17,6 @@ The first version will allow restaurant owners to:
 1. Build a project that helps restaurant owners like me
 2. Learn how to build something with the exisiting tools in the market atm
 3. Every major decision, feature, and lesson learned will be documented throughout the project.
+</> Markdown
+## Devlopment log
+- Local development environment configured.
