@@ -61,3 +61,55 @@ Running a business creates hundreds of unnecessary decisions.
 Every unnecessary decision steals attention from decisions that actually matter.
 
 Project 86 should eliminate decisions whenever it can.
+
+## Insight #007
+
+Business owners don't want information.
+
+They want judgment.
+
+A document by itself has very little value. What matters is understanding what it means, whether it matters, who should handle it, and what should happen next.
+
+Project 86 should never simply deliver information when it can instead deliver understanding.
+
+## Insight #008
+
+Most operational failures happen after submission.
+
+Submitting paperwork is rarely the end of an obligation.
+
+Checks are cashed.
+Emails go to spam.
+Agencies request additional information.
+Applications wait for review.
+
+Project 86 should continue tracking an obligation until it reaches a successful outcome, not simply until it has been submitted.
+
+## Insight #009
+
+Every obligation should know who can help.
+
+Businesses run on relationships.
+
+Every obligation has people who usually handle it.
+
+An accountant.
+An insurance broker.
+An attorney.
+A designer.
+A payroll provider.
+A business partner.
+
+Project 86 should know who normally owns each responsibility so the owner doesn't have to decide every time.
+
+## Insight #010
+
+The owner should never be the first analyst.
+
+When a notice, letter, or email arrives, Project 86 should perform the first round of thinking.
+
+Even if it cannot determine the exact answer, it should narrow the possibilities, explain its reasoning, identify who should verify it, and recommend the next step.
+
+"Here, figure it out."
+
+is never an acceptable user experience.
